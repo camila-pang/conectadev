@@ -15,9 +15,9 @@ const posts = [
        id: 1, 
        author:{
            id: 1, 
-           name: 'Lucas', 
-           username: 'lucasnhimi', 
-           avatar: '/images/avatars/logo192.png'
+           name: 'Soraia', 
+           username: 'soraia', 
+           avatar: '/images/avatar/avatar.png'
        }, 
        title: 'Criando um App', 
        date: 'April 7, 2020', 
@@ -30,9 +30,9 @@ const posts = [
     id: 2, 
     author:{
         id: 2, 
-        name: 'Lucas', 
-        username: 'lucasnhimi', 
-        avatar: '/images/avatars/avatar_1.jpeg'
+        name: 'Camila', 
+        username: 'cami', 
+        avatar: '/images/avatar/avatar.png'
     }, 
     title: 'Criando um App', 
     date: 'April 7, 2020', 

@@ -1,5 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
+
 import Home from './pages/Home'
 import { ThemeProvider } from '@material-ui/styles';
 import theme from './theme'

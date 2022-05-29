@@ -1,9 +1,10 @@
 import { createTheme } from '@mui/material/styles';
 import palette from './palette';
 import typography from './typography';
+import {colors} from '@mui/material/'
 
 const theme = createTheme({
-    palette, 
-    typography
+  palette, 
+  typography
 })
 export default theme;
